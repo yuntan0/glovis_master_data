@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "glovis_master_data"
 app_title = "Glovis Master Data"
 app_publisher = "John"
-app_description = "Glovis Master Data Management"
+app_description = "Glovis Master Data Management Test Solution"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "yuntan0@gmail.com"
