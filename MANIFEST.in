@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include glovis_master_data *.css
+recursive-include glovis_master_data *.csv
+recursive-include glovis_master_data *.html
+recursive-include glovis_master_data *.ico
+recursive-include glovis_master_data *.js
+recursive-include glovis_master_data *.json
+recursive-include glovis_master_data *.md
+recursive-include glovis_master_data *.png
+recursive-include glovis_master_data *.py
+recursive-include glovis_master_data *.svg
+recursive-include glovis_master_data *.txt
+recursive-exclude glovis_master_data *.pyc
